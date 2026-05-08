@@ -21,8 +21,9 @@ Known issues:
 ## Installation
 
 Requires:
-- NeoForge 1.21.1
+- Framework
 - GeckoLib
+- Curios API
 
 Download the latest jar from the Releases page.
 
