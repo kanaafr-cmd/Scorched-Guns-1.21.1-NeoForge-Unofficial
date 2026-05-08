@@ -1,0 +1,56 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="GNU GPLv3"
+
+[[mods]]
+modId="scguns"
+version="0.5.4-1.21.1"
+displayName="Scorched Guns"
+authors="ribs"
+credits="MrCrayfish, Ribs"
+description="SCORCHED GUNSSSSS"
+
+[[mixins]]
+config="scguns.mixins.json"
+
+[[dependencies.scguns]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.scguns]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.scguns]]
+modId="framework"
+type="required"
+versionRange="[0.9.6,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.scguns]]
+modId="controllable"
+type="optional"
+versionRange="[0.23.1,)"
+ordering="AFTER"
+side="CLIENT"
+
+[[dependencies.scguns]]
+modId="curios"
+type="required"
+versionRange="[9.5.1,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.scguns]]
+modId="geckolib"
+type="required"
+versionRange="[4.8.3,)"
+ordering="AFTER"
+side="BOTH"

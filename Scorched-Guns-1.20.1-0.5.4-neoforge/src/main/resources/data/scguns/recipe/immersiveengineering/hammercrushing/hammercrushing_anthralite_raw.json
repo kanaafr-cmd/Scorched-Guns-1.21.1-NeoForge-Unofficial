@@ -1,0 +1,15 @@
+{
+  "type": "immersiveengineering:hammer_crushing",
+  "input": {
+    "item": "scguns:raw_anthralite"
+  },
+  "result": {
+    "id": "scguns:anthralite_dust"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ]
+}

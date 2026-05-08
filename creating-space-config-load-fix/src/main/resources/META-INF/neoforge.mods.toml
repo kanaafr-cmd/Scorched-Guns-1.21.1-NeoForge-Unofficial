@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="creating_space_config_load_fix"
+version="1.0.1"
+displayName="Creating Space Config Load Fix"
+authors="Codex"
+description="Prevents early client recovery/init screens from reading unloaded config values."
+
+[[mixins]]
+config="creating_space_config_load_fix.mixins.json"
+
+[[dependencies.creating_space_config_load_fix]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.creating_space_config_load_fix]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.creating_space_config_load_fix]]
+modId="creatingspace"
+type="optional"
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"

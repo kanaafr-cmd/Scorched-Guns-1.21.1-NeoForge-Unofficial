@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: Creating Space Config Load Fix
+Specification-Vendor: codex
+Specification-Version: 1
+Implementation-Title: Creating Space Config Load Fix
+Implementation-Version: 1.0.1
+Implementation-Vendor: codex
+Implementation-Timestamp: 2026-05-07T19:34:24-0700
+MixinConfigs: creating_space_config_load_fix.mixins.json
+

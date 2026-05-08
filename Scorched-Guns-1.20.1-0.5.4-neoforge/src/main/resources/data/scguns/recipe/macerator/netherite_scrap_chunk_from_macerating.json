@@ -1,0 +1,13 @@
+{
+  "type": "scguns:macerating",
+  "processingTime": 300,
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "scguns:netherite_scrap_chunk"
+  }
+}

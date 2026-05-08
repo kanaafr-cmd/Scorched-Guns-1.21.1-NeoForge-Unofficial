@@ -1,0 +1,23 @@
+{
+  "type": "mekanism:combining",
+  "extraInput": {
+    "ingredient": {
+      "tag": "c:cobblestone/deepslate"
+    }
+  },
+  "mainInput": {
+    "amount": 8,
+    "ingredient": {
+      "item": "scguns:raw_anthralite"
+    }
+  },
+  "output": {
+    "item": "scguns:deepslate_anthralite_ore"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "scguns:gun_bench",
+  "result": {
+    "count": 1,
+    "id": "scguns:niami"
+  },
+  "blueprint": {
+    "item": "scguns:treated_brass_blueprint"
+  },
+  "gun_internal_1": {
+    "item": "scguns:firing_unit"
+  },
+  "gun_internal_2": {
+    "item": "scguns:gun_parts"
+  },
+  "gun_top_internal_1": {
+    "item": "scguns:treated_brass_ingot"
+  },
+  "gun_top_internal_2": {
+    "item": "scguns:treated_brass_gun_frame"
+  },
+  "gun_grip": {
+    "item": "scguns:gun_grip"
+  },
+  "gun_barrel_1": {
+    "item": "scguns:gun_barrel"
+  },
+  "gun_top_barrel_1": {
+    "item": "scguns:treated_brass_ingot"
+  },
+  "gun_magazine": {
+    "item": "scguns:empty_tank"
+  }
+}

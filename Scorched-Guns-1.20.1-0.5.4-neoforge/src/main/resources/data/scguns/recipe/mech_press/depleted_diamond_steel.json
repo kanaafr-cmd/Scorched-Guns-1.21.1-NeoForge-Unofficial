@@ -1,0 +1,22 @@
+{
+  "type": "scguns:mechanical_pressing",
+  "processingTime": 15,
+  "ingredients": [
+    {
+      "item": "scguns:depleted_diamond_steel_ingot"
+    },
+    {
+      "item": "create:experience_nugget"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "scguns:diamond_steel_ingot"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ]
+}

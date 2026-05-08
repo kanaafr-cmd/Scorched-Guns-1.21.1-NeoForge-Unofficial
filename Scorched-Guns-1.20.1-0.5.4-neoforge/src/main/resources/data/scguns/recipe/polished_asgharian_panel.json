@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "Q": {
+      "item": "scguns:asgharian_bricks"
+    }
+  },
+  "pattern": [
+    "QQ ",
+    "QQ "
+  ],
+  "result": {
+    "count": 4,
+    "id": "scguns:polished_asgharian_panel"
+  }
+}

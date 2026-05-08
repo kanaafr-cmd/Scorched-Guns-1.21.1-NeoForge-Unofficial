@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Apothic Boss Health Compat
+Specification-Vendor: codex
+Specification-Version: 1
+Implementation-Title: Apothic Boss Health Compat
+Implementation-Version: 1.0.0
+Implementation-Vendor: codex
+Implementation-Timestamp: 2026-05-07T18:57:36-0700
+

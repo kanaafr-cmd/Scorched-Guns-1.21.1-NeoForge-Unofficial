@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.codex.creatingspacefix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ConfigValueEarlyOverlayMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

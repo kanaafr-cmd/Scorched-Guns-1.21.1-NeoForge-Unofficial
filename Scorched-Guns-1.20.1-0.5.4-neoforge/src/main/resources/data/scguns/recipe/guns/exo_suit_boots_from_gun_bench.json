@@ -1,0 +1,22 @@
+{
+  "type": "scguns:gun_bench",
+  "result": {
+    "count": 1,
+    "id": "scguns:exo_suit_boots"
+  },
+  "blueprint": {
+    "item": "scguns:exo_suit_blueprint"
+  },
+  "gun_internal_1": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_barrel_1": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_grip": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_magazine": {
+    "item": "scguns:anthralite_ingot"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.codex.dynamictreesfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BasicRootsBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

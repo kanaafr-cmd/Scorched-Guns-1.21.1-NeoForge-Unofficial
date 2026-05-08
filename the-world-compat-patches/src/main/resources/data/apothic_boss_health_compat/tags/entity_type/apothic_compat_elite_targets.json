@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "alexscaves:ferrouslime", "required": false },
+    { "id": "alexscaves:boundroid", "required": false },
+    { "id": "alexscaves:gammaroach", "required": false },
+    { "id": "alexscaves:deep_one_knight", "required": false },
+    { "id": "alexsmobs:grizzly_bear", "required": false },
+    { "id": "alexsmobs:crocodile", "required": false },
+    { "id": "alexsmobs:froststalker", "required": false },
+    { "id": "alexsmobs:tusklin", "required": false },
+    { "id": "born_in_chaos_v1:decaying_zombie", "required": false },
+    { "id": "born_in_chaos_v1:skeleton_thrasher", "required": false },
+    { "id": "born_in_chaos_v1:dread_hound", "required": false },
+    { "id": "born_in_chaos_v1:fallen_chaos_knight", "required": false },
+    { "id": "mowziesmobs:foliaath", "required": false },
+    { "id": "mowziesmobs:wroughtnaut", "required": false },
+    { "id": "mowziesmobs:frostmaw", "required": false },
+    { "id": "mowziesmobs:naga", "required": false }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "scguns:macerating",
+  "processingTime": 100,
+  "ingredients": [
+    {
+      "item": "scguns:raw_phosphor"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "scguns:phosphor_dust"
+  }
+}

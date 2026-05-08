@@ -1,0 +1,31 @@
+{
+  "type": "scguns:gun_bench",
+  "result": {
+    "count": 1,
+    "id": "scguns:exo_suit_leggings"
+  },
+  "blueprint": {
+    "item": "scguns:exo_suit_blueprint"
+  },
+  "gun_internal_1": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_top_internal_2": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_top_internal_1": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_barrel_1": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_top_barrel_1": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_grip": {
+    "item": "scguns:anthralite_ingot"
+  },
+  "gun_magazine": {
+    "item": "scguns:anthralite_ingot"
+  }
+}

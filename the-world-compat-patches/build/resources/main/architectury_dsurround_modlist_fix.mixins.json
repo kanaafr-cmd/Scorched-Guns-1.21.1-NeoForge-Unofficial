@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.codex.architecturyfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ArchitecturyPlatformImplMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

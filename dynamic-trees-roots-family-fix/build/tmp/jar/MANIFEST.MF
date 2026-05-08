@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: Dynamic Trees Roots Family Fix
+Specification-Vendor: codex
+Specification-Version: 1
+Implementation-Title: Dynamic Trees Roots Family Fix
+Implementation-Version: 1.0.0
+Implementation-Vendor: codex
+Implementation-Timestamp: 2026-05-07T19:44:34-0700
+MixinConfigs: dynamic_trees_roots_family_fix.mixins.json
+

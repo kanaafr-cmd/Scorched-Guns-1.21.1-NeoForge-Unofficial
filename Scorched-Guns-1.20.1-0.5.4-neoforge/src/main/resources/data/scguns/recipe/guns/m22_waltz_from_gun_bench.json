@@ -1,0 +1,31 @@
+{
+  "type": "scguns:gun_bench",
+  "result": {
+    "count": 1,
+    "id": "scguns:m22_waltz"
+  },
+  "blueprint": {
+    "item": "scguns:treated_brass_blueprint"
+  },
+  "gun_internal_1": {
+    "item": "scguns:firing_unit"
+  },
+  "gun_internal_2": {
+    "item": "scguns:heavy_gun_parts"
+  },
+  "gun_top_internal_2": {
+    "item": "scguns:treated_brass_ingot"
+  },
+  "gun_top_internal_1": {
+    "item": "scguns:treated_brass_ingot"
+  },
+  "gun_barrel_1": {
+    "item": "scguns:gun_barrel"
+  },
+  "gun_grip": {
+    "item": "scguns:gun_grip"
+  },
+  "gun_magazine": {
+    "item": "scguns:gun_magazine"
+  }
+}

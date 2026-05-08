@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "dev.codex.theworldpatches.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ScorchedGunsModItemsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

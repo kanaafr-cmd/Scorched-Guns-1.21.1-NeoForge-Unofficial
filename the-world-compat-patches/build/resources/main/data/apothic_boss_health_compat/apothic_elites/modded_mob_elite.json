@@ -1,0 +1,75 @@
+{
+  "type": "apotheosis:elite",
+  "affix_data": {
+    "affix_chance": 0.35
+  },
+  "basic_data": {
+    "bonus_loot": [
+      "apotheosis:entity/boss_drops"
+    ],
+    "name": "use_name_generation",
+    "spawn_conditions": [
+      {
+        "type": "apotheosis:not",
+        "spawn_condition": {
+          "type": "apotheosis:spawn_type",
+          "spawn_types": [
+            "spawn_egg",
+            "spawner",
+            "mob_summoned"
+          ]
+        }
+      }
+    ],
+    "weights": {
+      "frontier": {
+        "quality": 0.1,
+        "weight": 100
+      },
+      "ascent": {
+        "quality": 0.1,
+        "weight": 100
+      },
+      "summit": {
+        "quality": 0.1,
+        "weight": 100
+      },
+      "pinnacle": {
+        "quality": 0.1,
+        "weight": 100
+      }
+    }
+  },
+  "entities": "#apothic_boss_health_compat:apothic_compat_elite_targets",
+  "stats": {
+    "attribute_modifiers": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "add_value",
+        "value": {
+          "min": 30.0,
+          "max": 80.0
+        }
+      },
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "operation": "add_multiplied_base",
+        "value": {
+          "min": 0.25,
+          "max": 0.55
+        }
+      },
+      {
+        "attribute": "minecraft:generic.knockback_resistance",
+        "operation": "add_value",
+        "value": 0.4
+      }
+    ],
+    "enchant_chance": 0.25,
+    "enchantment_levels": {
+      "primary": 20,
+      "secondary": 12
+    }
+  },
+  "success_chance": 0.01
+}
