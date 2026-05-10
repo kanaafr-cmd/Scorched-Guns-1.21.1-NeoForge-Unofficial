@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 16,
-  "ingredient": {
-    "item": "scguns:diamond_steel_block"
-  },
-  "result": "scguns:diamond_steel_panel"
-}
